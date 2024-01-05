@@ -1,0 +1,84 @@
+{
+    "home": {
+        "name": "SEO DOWON",
+        "job": "Back-end Web Engineer"
+    },
+    "skills": {
+        "board": {
+            "title": "Hey Everyone",
+            "body": ["I am interested in development and love learning new technologies in each discipline. I've been working on the web since 2021, here are some of the things I have experience in:"]
+        }
+    },
+    "projects": {},
+    "resume": {
+        "education": {
+            "dept": "Dept. of Computer Science",
+            "univ": "Chungbuk National University",
+            "degree": "B. S",
+            "period": {
+                "start": 2019,
+                "end": null
+            }
+        },
+        "experience": [
+            {
+                "title": "ALLRAPSHIT",
+                "position": "Full-Stack Web Developer, Operator",
+                "url": "#",
+                "period": {
+                    "start": 2023,
+                    "end": ""
+                }
+            },
+            {
+                "title": "Fujishiro Seiji Bukchon Space Online Store",
+                "position": "Full-Stack Web Developer, Operator",
+                "url": "http://seijibukchon.com",
+                "period": {
+                    "start": 2021,
+                    "end": ""
+                }
+            },
+            {
+                "title": "MUFI",
+                "position": "Front-end Web Developer",
+                "url": "https://muinfilm.com",
+                "period": {
+                    "start": 2021,
+                    "end": 2023
+                }
+            }
+        ],
+        "award": [
+            {
+                "name": "ICT FESTIVAL",
+                "organizer": "CEBCT",
+                "award": "1st Award"
+            },
+            {
+                "name": "CEDC 2022",
+                "organizer": "",
+                "award": "Bronze Award"
+            },
+            {
+                "name": "충북 ICT 성과발표회",
+                "organizer": "",
+                "award": "4th Award"
+            }
+        ]
+    },
+    "contact": {
+        "info": [
+            {
+                "name": "GitHub",
+                "href": "github.com/seoes"
+            }
+        ],
+        "contact": [
+            {
+                "name": "Email",
+                "href": "mailto:dsa3182@gmail.com"
+            }
+        ]
+    }
+}
