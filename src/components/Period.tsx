@@ -3,7 +3,7 @@ import { DetailedHTMLProps, HTMLAttributes, PropsWithChildren } from "react";
 type SectionType = DetailedHTMLProps<HTMLAttributes<HTMLDivElement>, HTMLDivElement> & {
     period: {
         start: number | string;
-        end: number | string;
+        end: number | string | null;
     };
 };
 

@@ -27,7 +27,7 @@
                 "url": "#",
                 "period": {
                     "start": 2023,
-                    "end": ""
+                    "end": null
                 }
             },
             {
@@ -36,7 +36,7 @@
                 "url": "http://seijibukchon.com",
                 "period": {
                     "start": 2021,
-                    "end": ""
+                    "end": null
                 }
             },
             {
@@ -52,12 +52,12 @@
         "award": [
             {
                 "name": "ICT FESTIVAL",
-                "organizer": "CEBCT",
+                "organizer": "CBIST",
                 "award": "1st Award"
             },
             {
                 "name": "CEDC 2022",
-                "organizer": "",
+                "organizer": "iRE-Asia, Innovative Research & Education of Asia",
                 "award": "Bronze Award"
             },
             {

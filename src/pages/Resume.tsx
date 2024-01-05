@@ -14,9 +14,7 @@ export default function Resume() {
                             {education.dept}, {education.univ}
                         </p>
                         <p>{education.degree}</p>
-                        <p>
-                            ({education.period.start} ~ {education.period.end ? education.period.end : ""})
-                        </p>
+                        <Period className="mt-1" period={education.period} />
                     </div>
                 </Section>
 
@@ -28,7 +26,7 @@ export default function Resume() {
                                 <a href={exp.url}>{exp.title}</a>
                             </h2>
                             <h3 className="mt-1">{exp.position}</h3>
-                            <Period period={exp.period} />
+                            <Period className="mt-1" period={exp.period} />
                         </div>
                     ))}
                 </Section>
