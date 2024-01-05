@@ -10,7 +10,7 @@ export default function Skill({ icon }: SkillProps) {
     return (
         <div className="max-xl:mx-3 hover:opacity-85 transition-opacity">
             <a href={url ? url[0] : "#"} target="_blank" rel="noreferrer">
-                <div style={{ backgroundColor: `#${icon.hex}` }} className={`rounded-[18px] xl:w-80 w-full m-auto p-4 bg-[${icon.hex}] font-normal`}>
+                <div style={{ backgroundColor: `#${icon.hex}` }} className={` xl:w-80 w-full m-auto p-4 bg-[${icon.hex}] font-normal`}>
                     <div className="flex gap-4 h-6">
                         <div className="w-12">
                             <svg width="100%" height="100%" viewBox="0 0 24 24">

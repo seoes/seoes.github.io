@@ -5,8 +5,8 @@
     },
     "skills": {
         "board": {
-            "title": "Hey Everyone",
-            "body": ["I am interested in development and love learning new technologies in each discipline.", "Here are some of the things I use:"]
+            "title": "Introduce",
+            "body": ["I'm interested in development", "I'm interested in learning new technologies in each discipline", "Here are some of the things I use:"]
         }
     },
     "projects": {},

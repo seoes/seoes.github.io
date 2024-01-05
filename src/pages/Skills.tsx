@@ -8,15 +8,15 @@ import Title from "../components/Title";
 export default function Skills() {
     const { board } = data.skills;
     return (
-        <Container className="min-h-screen max-xl:py-12">
+        <Container className="min-h-screen">
             <div>
                 <div className="mt-12">
                     <div>
                         <Title className="text-center">{board.title}</Title>
                     </div>
-                    <div className="mt-6">
+                    <div className="mt-8 text-center">
                         {board.body.map((str) => (
-                            <p>{str}</p>
+                            <p className="mt-2">{str}</p>
                         ))}
                     </div>
                 </div>
